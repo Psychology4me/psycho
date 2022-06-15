@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 44.2 27.7" style="enable-background:new 0 0 44.2 27.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#666666;}
+	.st1{clip-path:url(#SVGID_00000000191446876468030910000000547884603377299897_);}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#BD1F37;}
+	.st4{fill:#2D2F77;}
+</style>
+<g id="Layer_2_00000117676396729528586560000014794429994104650626_">
+	<g id="Flags">
+		<rect class="st0" width="44.2" height="27.7"/>
+		<g id="UNITED_KINGDOM">
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="2" y="2.3" width="39.7" height="23.2"/>
+				</defs>
+				<clipPath id="SVGID_00000106829924506092262030000001752360499674482591_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g style="clip-path:url(#SVGID_00000106829924506092262030000001752360499674482591_);">
+					<rect x="2" y="2.3" class="st2" width="39.7" height="23.2"/>
+					<polygon class="st3" points="28.6,10.7 41.8,3.4 41.8,2.3 40.9,2.3 25.9,10.7 					"/>
+					<polygon class="st3" points="28,17.6 41.8,25.3 41.8,23.7 30.8,17.6 					"/>
+					<polygon class="st3" points="2,4.1 13.8,10.7 16.6,10.7 2,2.5 					"/>
+					<polygon class="st3" points="15.9,17.6 2,25.4 2,25.5 4.6,25.5 18.7,17.6 					"/>
+					<polygon class="st4" points="39.1,2.3 25.1,2.3 25.1,10.1 					"/>
+					<polygon class="st4" points="19,2.3 5.1,2.3 19,10.1 					"/>
+					<polygon class="st4" points="41.8,10.7 41.8,5.4 32.3,10.7 					"/>
+					<polygon class="st4" points="41.8,22.8 41.8,17.6 32.3,17.6 					"/>
+					<polygon class="st4" points="5.9,25.5 19,25.5 19,18.2 					"/>
+					<polygon class="st4" points="25.1,25.5 38.3,25.5 25.1,18.2 					"/>
+					<polygon class="st4" points="2,17.6 2,23.1 11.8,17.6 					"/>
+					<polygon class="st4" points="2,10.7 11.8,10.7 2,5.2 					"/>
+					<polygon class="st3" points="20.2,2.3 20.2,12.1 2,12.1 2,16.2 20.2,16.2 20.2,25.5 23.9,25.5 23.9,16.2 41.8,16.2 41.8,12.1 
+						23.9,12.1 23.9,2.3 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
